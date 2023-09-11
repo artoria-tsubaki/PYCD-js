@@ -9,7 +9,7 @@ const dayOfYear = (date?: string | number) => {
   // 获取指定日期所在年份
   const firstDate = new Date(curDate.getFullYear() + '');
   // 计算日期差值
-  return Math.floor((+curDate - +firstDate) / 1000 / 60 / 60 / 24)
+  return Math.ceil((+curDate - +firstDate) / 1000 / 60 / 60 / 24)
 }
 
 export default dayOfYear
