@@ -12,3 +12,6 @@ export * from './date'
 
 // 对象
 export * from './object'
+
+// 数字
+export * from './number'
