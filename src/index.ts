@@ -9,3 +9,6 @@ export * from './boolean'
 
 // 日期
 export * from './date'
+
+// 对象
+export * from './object'
