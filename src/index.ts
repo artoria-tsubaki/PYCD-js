@@ -15,3 +15,6 @@ export * from './object'
 
 // 数字
 export * from './number'
+
+// 字符串
+export * from './string'
