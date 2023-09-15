@@ -18,3 +18,6 @@ export * from './number'
 
 // 字符串
 export * from './string'
+
+// 属性结构
+export * from './tree'
