@@ -21,3 +21,9 @@ export * from './string'
 
 // 属性结构
 export * from './tree'
+
+// 常用方法
+export * from './methods'
+
+// 数据处理
+export * from './function'
